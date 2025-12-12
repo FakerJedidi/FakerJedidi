@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hey, I'm Faker Jedidi</h1>
 <p align="center">
-  <strong>Data Engineer • Data Scientist • Big Data Enthusiast</strong><br>
+  <strong> Data Scientist • Big Data Enthusiast</strong><br>
   Transforming raw data into scalable, automated, and reliable pipelines.
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m a Data Engineer & Data Scientist with hands-on experience in building ETL pipelines, automating data workflows, and designing efficient data architectures.
+I’m a  Data Scientist with hands-on experience in building ETL pipelines, automating data workflows, and designing efficient data architectures.
 
 I enjoy working on real-world problems where data engineering, analytics, and automation meet. Whether it's optimizing pipeline performance, engineering datasets, or applying machine learning, I bring precision, curiosity, and clean engineering fundamentals.
 
